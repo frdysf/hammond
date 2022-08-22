@@ -1,0 +1,10 @@
+{
+ "target_0": {
+  "source_0": {
+   "mean_abs_error": 15.314538955688477,
+   "mean_squared_error": 416.5150146484375,
+   "euclidian_distance": 1200.4757080078125,
+   "manhattan_distance": 52988.3046875
+  }
+ }
+}
