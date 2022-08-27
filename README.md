@@ -22,7 +22,7 @@ The obvious alternative would be to use a professional VST emulation of a chosen
 
 The details of implementation are summarised through **Figures 3.1** and **3.3** (**p12** and **p17**, respectively) in `COMP3200 Final Report.pdf`. Figure 3.1 gives the implementation of the ASP system, and Figure 3.3 gives the model architecture of the Hammond emulation.
 
-The full report serves as a complete layman overview of the project, from the theory of sound synthesis and literature of ASP, through to the project's design, development and experimental results. The table of contents allows for easy navigation through the report. _NB: I've since learnt how to use IEEE citation properly. :joy:_
+The full report serves as a complete layman overview of the project, from the theory of sound synthesis and literature of ASP, through to the project's design, development and experimental results. The table of contents allows for easy navigation through the report. _NB: I've since learnt how to use IEEE citation properly._ :joy:
 
 ## further ideas (free!)
 
