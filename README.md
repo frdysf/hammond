@@ -16,13 +16,13 @@ Let's talk about sound matching through _automatic synthesiser programming_, or 
 
 So... why a Hammond organ? As mentioned, a barrier to investigation in the cross-domain problem is producing a system that can **effectively** model the acoustics of the sampled instrument or source. You wouldn't get very far recreating piano samples on a subtractive synth, for example. Noting that a Hammond (more generally, a tonewheel organ) is fundamentally an additive synthesiser was convenient to derive a technically simple, no-cost methodology: build and apply a crude model of a Hammond using standard DSP components (oscillators, filters, mixers, etc.) which would be widely found through audio programming libraries.
 
-The obvious alternative would be to use a professional VST emulation of a chosen instrument. This is a more costly methodology in multiple senses though: needing to build ([at least, on Windows](https://github.com/fedden/RenderMan)) and interface with a VST host program in C++, and possibly purchasing such an off-the-shelf VST.
+The obvious alternative would be to use a professional VST emulation of a chosen instrument. This is a more costly methodology in multiple senses though: needing to build ([at least, on Windows](https://github.com/fedden/RenderMan)) and interface with a VST host program in C++ and possibly purchasing such an off-the-shelf VST.
 
 ## design & implementation
 
 The details of implementation are summarised through **Figures 3.1** and **3.3** (**p12** and **p17**, respectively) in `COMP3200 Final Report.pdf`. Figure 3.1 gives the implementation of the ASP system, and Figure 3.3 gives the model architecture of the Hammond emulation.
 
-The full report serves as a complete layman overview of the project, from the theory of sound synthesis and literature of ASP, through to the project's design, development and experimental results. The table of contents allows for easy navigation through the report.
+The full report serves as a complete layman overview of the project, from the theory of sound synthesis and literature of ASP, through to the project's design, development and experimental results. The table of contents allows for easy navigation through the report. _NB: I've since learnt how to use IEEE citation properly. :joy:_
 
 ## further ideas (free!)
 
